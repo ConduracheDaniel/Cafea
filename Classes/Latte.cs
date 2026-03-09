@@ -3,7 +3,7 @@ using System;
 
 namespace Cafea.Classes
 {
-    internal class Espresso : CoffeeBase
+    internal class Latte : CoffeeBase
     {
         public override CoffeeBase Recipe()
         {

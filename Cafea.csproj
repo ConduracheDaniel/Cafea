@@ -44,7 +44,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Classes\Bases\CoffeeBase.cs" />
+    <Compile Include="Classes\DoubleEspresso.cs" />
     <Compile Include="Classes\Espresso.cs" />
+    <Compile Include="Classes\Latte.cs" />
     <Compile Include="Enums\CoffeeType.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
