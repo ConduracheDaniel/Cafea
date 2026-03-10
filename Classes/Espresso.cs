@@ -5,9 +5,11 @@ namespace Cafea.Classes
 {
     internal class Espresso : CoffeeBase
     {
+        
         public override CoffeeBase Recipe()
         {
-            throw new NotImplementedException();
+           
+            return this;
         }
     }
 }

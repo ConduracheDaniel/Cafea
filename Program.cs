@@ -13,7 +13,7 @@ namespace Cafea
         {
             Espresso espresso = new Espresso();
             espresso.Recipe();
-            Console.WriteLine($"{espresso.x}");
+            
         }
     }
 }
